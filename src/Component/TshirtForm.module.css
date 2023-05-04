@@ -1,0 +1,21 @@
+/* Add green texture to button */
+button {
+    background-color: #4caf50;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-light.png");
+  }
+  
+  /* Add light grey texture to form container */
+  .form-container {
+    background-color: #f7f7f7;
+    border-radius: 10px;
+    padding: 20px;
+    background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+  }
+  
+  
